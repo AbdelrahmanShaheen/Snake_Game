@@ -11,7 +11,7 @@
 
 ## App Architecture
 **in this game i applied oop and some object oriented designs Like :
-Single Responsibility ,composion ,association ,DRY and KISS**
+Encapsulation ,Abstraction ,Single Responsibility ,composion ,association ,DRY and KISS**
 ![Snake-Architecture](https://user-images.githubusercontent.com/77184432/176635787-57c56877-0203-4cab-a2c1-66ec1079bd6a.png)
 
 ## Screenshots
